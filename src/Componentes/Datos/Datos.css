@@ -1,0 +1,20 @@
+.tabledts{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+    height: 200px;
+    border: solid black 2px;
+    background-color: white;
+}
+
+.tabledts thead{
+    background-color:rgb(5, 174, 53);
+}
+.tabledts th{
+ border: solid black 2px;
+}
+
+.h2dts{
+    margin-left: 630px;
+}
